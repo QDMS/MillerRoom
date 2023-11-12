@@ -8,7 +8,7 @@ import Resources from "./Utils/Resources.js";
 import Camera from "./Camera.js";
 import Renderer from "./Renderer.js";
 import World from "./World/World.js";
-import assets from "./Utils/assets.js";
+import assets from "./Utils/assets";
 
 
 
