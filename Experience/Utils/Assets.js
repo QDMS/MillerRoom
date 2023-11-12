@@ -1,6 +1,6 @@
 export default [
     {
-      name: "millerRoom",
+      name: "room",
       type: "glbModel",
       path: "/models/ThreeJsRoom.glb",
     },
